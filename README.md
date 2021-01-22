@@ -1,4 +1,4 @@
-# Hypnos Experiment [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hypnos-toolkit/hypnos-experiment/blob/master/notebooks/hypnos-experiment.ipynb)
+# Hypnos Experiment [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hypnos-toolkit/hypnos-experiment/blob/master/notebooks/hypnos-experiment.ipynb) [![DOI](https://zenodo.org/badge/332030077.svg)](https://zenodo.org/badge/latestdoi/332030077)
 
 This repository contains the following artifacts from the Hypnos toolkit experiment:
 
