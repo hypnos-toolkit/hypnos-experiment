@@ -5,3 +5,7 @@ This repository contains the following artifacts from the Hypnos toolkit experim
 - Experiment's raw data, directly exported from university server instance. Can be found at [raw](./raw) folder.
 - Experiment's tidy data, prepared for its data analysis by fixing miss-aligned battery values. Can be found at [tidy-data](./tidy-data) folder.
 - Experiment's data analysis notebook, with all the statistics and generated figures. Can be found at [notebooks](./notebooks) folder
+
+## Acknowledgements
+
+Solar irradiance data were obtained from the NASA Langley Research Center POWER Project funded through the NASA Earth Science Directorate Applied Science Program.
